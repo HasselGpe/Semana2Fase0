@@ -1,0 +1,1 @@
+Lesson_summary = {typeable_characters: 194, typed_characters: 218, unproductive_keystroke_overhead: "12%", elapsed_time: "1:58", wpm: 20}
